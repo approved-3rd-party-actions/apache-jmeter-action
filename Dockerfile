@@ -1,4 +1,4 @@
-FROM alpine:3.12.1
+FROM alpine:3.16.9
 
 LABEL "maintainer" "Ravindra Bhadti"
 LABEL "com.github.actions.name"="apache-jmeter"
